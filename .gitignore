@@ -1,1 +1,5 @@
 db.sqlite3
+venv/
+polls/migrations/
+polls/__pycache__/
+mysite/__pycache__/
