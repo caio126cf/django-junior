@@ -18,3 +18,14 @@ O objetivo deste desafio é entender o nível de conhecimento dos candidatos em 
  - Edite o .gitignore para incluir seu arquivo db.sqlite3 no projeto.
 
  Assim que estiver concluído, nos envie o link público do seu projeto no git(ou o zip, caso tenha dificuldades com o GIT) contendo, além do código, alguns prints da tela /polls/<id>/results/ mostrando os dados que foram incluidos nessa tela com as edições para o email desafio.dev@soirtec.com. (Não precisa editar o template, assim que os métodos estiverem funcionando, as informações irão aparecer na tela).
+
+
+**Resultados**
+Tela de questão:
+
+<img width="1904" height="578" alt="TELA QUESTÃO" src="https://github.com/user-attachments/assets/554ce953-8b42-43f7-92dd-95c7fae4105a" />
+Tela de questão após somada:
+
+<img width="1914" height="731" alt="TELA QUESTÃO SOMADA" src="https://github.com/user-attachments/assets/7f90d4a9-2137-4814-bd2f-c275d7e576dc" />
+
+
